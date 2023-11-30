@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "461659119605",
+    "project_id": "flowerpower-71b4b",
+    "storage_bucket": "flowerpower-71b4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461659119605:android:d7f9b8c466176f24488abc",
+        "android_client_info": {
+          "package_name": "com.example.flowerpower"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-_brs8cJwBgycQCU0dsUG0WkU90b_Tdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
