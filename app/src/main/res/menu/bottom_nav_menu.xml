@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <item android:id="@+id/home"
+    <item android:id="@+id/hometab"
         android:title="Home"
         android:icon="@drawable/baseline_home_24"/>
-
-    <item android:id="@+id/flower"
+    <item android:id="@+id/recommendation"
         android:title="Recommendation"
         android:icon="@drawable/baseline_local_florist_24"/>
-    <item android:id="@+id/report"
+    <item android:id="@+id/reports"
         android:title="Reports"
         android:icon="@drawable/baseline_library_books_24"/>
     <item android:id="@+id/settings"
